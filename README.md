@@ -8,6 +8,10 @@ A set of free-to-use archival tools.
 
 This tool converts all PDF files in a selected folder (and its subfolders) to JPG images.
 
+### Combine docx files
+
+This tool converts all selected .docx files into a single .docx file.
+
 #### Usage
 
 1. Clone the repository:
