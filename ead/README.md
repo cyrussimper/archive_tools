@@ -111,12 +111,8 @@ This repository contains a set of tools designed to assist with various archival
 
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
-### License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Contact
 
-For questions or feedback, please contact [Your Name] at [Your Email].
+For questions or feedback, please contact Cyrus Simper via LinkedIn.
 
-Happy Archiving!
