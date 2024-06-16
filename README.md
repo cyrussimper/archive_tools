@@ -191,12 +191,9 @@ Launches a Tkinter-based GUI for selecting input and output folders and starting
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
 
-## Contact
-
-For any questions or suggestions, please contact [Your Name](mailto:your.email@example.com).
